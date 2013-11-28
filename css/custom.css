@@ -1,0 +1,15 @@
+header .hero-unit {
+	background: #38587b;
+}
+
+header .lead {
+	color: white;
+}
+
+form label {
+	font-weight: bold;
+}
+
+footer .muted {
+	margin-top: 30px;
+}
