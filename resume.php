@@ -144,7 +144,7 @@
 									</tr>
 									<tr>
 										<th>Systems</th>
-										<td>Windows XP/2000/Vista/7/Server 2008 R2, Macintosh OS X 10.4 - 10.8, Linux (Debian, Fedora, Ubuntu)</td>
+										<td>Microsoft XP-8.1, Microsoft Server 2008-2012R2, Macintosh OSX 10.4 Ð 10.9, Linux (Debian, Fedora, Ubuntu)</td>
 									</tr>
 									<tr>
 										<th>Software</th>
