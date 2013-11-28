@@ -60,6 +60,11 @@
 										<th>Date</th>
 									</tr>
 									<tr>
+										<td>Kaplan University</td>
+										<td>M.S. In Information Security and Assurance</td>
+										<td>Expected August 2015</td>
+									</tr>
+									<tr>
 										<td>Rochester Institute of Technology</td>
 										<td>B.S. in Information Technology</td>
 										<td>February 2013</td>
@@ -74,6 +79,18 @@
 										<th>Title</th>
 										<th>Location</th>
 										<th>Dates</th>
+									</tr>
+									<tr>
+										<td>Modis</td>
+										<td>Desktop Support Specialist</td>
+										<td>Rochester, NY</td>
+										<td>9/23/13 - Present</td>
+									</tr>
+									<tr>
+										<td>Synergy Global Solutions</td>
+										<td>Field Service Engineer</td>
+										<td>Rochester, NY</td>
+										<td>04/14/13 - 06/22/13</td>
 									</tr>
 									<tr>
 										<td>Rochester Institute of Technology</td>
