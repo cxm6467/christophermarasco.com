@@ -107,7 +107,7 @@
 						</div>
 						<div class="network clearfix">
 							<img src="img/linkedin.png" alt="LinkedIn icon" class="img" />
-							<a href="http://http//www.linkedin.com/pub/christopher-marasco/1a/216/970">LinkedIn</a>
+							<a href="http://www.linkedin.com/pub/christopher-marasco/1a/216/970">LinkedIn</a>
 						</div>
 						<div class="network clearfix">
 							<img src="img/google+.png" alt="Google+ icon" class="img" />
