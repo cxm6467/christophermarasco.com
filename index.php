@@ -38,7 +38,7 @@
 				<div class="row">
 					<div class="span9">
 						<h2>Welcome!</h2>
-						<p class="lead">I am Chris Marasco, a recent graduate of <a href="http://rit.edu">Rochester Institute of Technology</a> with a B.S. in Information Systems and Technologies. I am from Rochester, NY, and am eager to enter the workforce. I am especially interested in hands-on work within the Systems Administration and Information Technology fields.</p>
+						<p class="lead">I am Chris Marasco, a recent graduate of <a href="http://rit.edu">Rochester Institute of Technology</a> with a B.S. in Information Systems and Technologies. I am from Rochester, and love learning new things. I am especially interested in hands-on work within the Systems Administration and Information Technology fields.</p>
 						<blockquote>
                             <small>Christopher Marasco</small>
                         </blockquote>
