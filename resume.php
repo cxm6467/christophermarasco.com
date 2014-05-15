@@ -140,7 +140,7 @@
                 <table class="table table-bordered table-striped">
                   <tr>
                     <th>Languages</th>
-                    <td>Java, HTML, CSS, PHP, javaScript, jQuery, Perl</td>
+                    <td>Java, HTML, CSS, PHP, javaScript, jQuery, Perl, Powershell</td>
                   </tr>
                   <tr>
                     <th>Systems</th>
