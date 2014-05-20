@@ -82,7 +82,7 @@
                   </tr>
                   <tr>
                     <td>Modis</td>
-                    <td>Desktop Support Specialist</td>
+                    <td>System Administrator</td>
                     <td>Rochester, NY</td>
                     <td>9/23/13 - Present</td>
                   </tr>
