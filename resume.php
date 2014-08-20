@@ -148,7 +148,7 @@
                   </tr>
                   <tr>
                     <th>Software</th>
-                    <td>Microsoft Office, Adobe Photoshop and Flash, VMWare, Altiris, SCCM, DeployStudio, Norton Ghost, McAfee Anti-Virus, Apple Remote Desktop
+                    <td>Microsoft Office,MSSQL,  Adobe Photoshop and Flash, VMWare, Altiris, SCCM, DeployStudio, Norton Ghost, McAfee Anti-Virus, Apple Remote Desktop
                   </tr>
                   <tr>
                     <th>Courses</th>
