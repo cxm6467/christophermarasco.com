@@ -49,7 +49,7 @@
             <div class="tab-content">
               <div class="tab-pane active" id="objective">
                 <h3>Objective</h3>
-                <p>To obtain an engaging career relevant to my major field of study, preferably in an entry-level Systems Administration position.</p>
+                <p>To obtain an engaging career relevant to my major field of study, preferably in a Systems Administration position working with virtualization technology.</p>
               </div>
               <div class="tab-pane" id="education">
                 <h3>Education</h3>

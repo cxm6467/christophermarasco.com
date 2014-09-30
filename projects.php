@@ -74,7 +74,7 @@
 						</ul>
 							<h4>VMware Certified Professional 5 - Data Center Virtualization</h4>
 						<ul>
-							<li>I have recently finished the required VCP 5 course and am now studying for the exam.  I have scheduled this for August 28 this year.</li>
+							<li>I have recently finished the required VCP 5 course and am now studying for the exam.  I have scheduled this for October 21 this year.</li>
 						</ul>
 						<h4>Scripting and Kiosk</h4>
 						<ul>
