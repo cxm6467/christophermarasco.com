@@ -38,7 +38,7 @@
         <div class="row">
           <div class="span12">
             <h2>Resum&eacute;</h2>
-            <p class="lead">Thanks for reading my resum&eacute;. You can either read it online, <a href="./files/resume.pdf" class="btn btn-danger">Download the PDF</a> or <a href="./files/resume.doc" class="btn btn-primary">Download the .DOC</a>.</p>
+            <p class="lead">Thanks for reading my resum&eacute;. You can either read it online, <a href="./files/MarascoChristopherResume.pdf" class="btn btn-danger">Download the PDF</a> or <a href="./files/MarascoChristopherResume.doc" class="btn btn-primary">Download the .DOC</a>.</p>
             <ul class="nav nav-tabs">
               <li><a href="#objective" data-toggle="tab">Objective</a></li>
               <li><a href="#education" data-toggle="tab">Education</a></li>
