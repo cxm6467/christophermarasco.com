@@ -62,6 +62,7 @@
                   <tr>
                     <td>Kaplan University</td>
                     <td>M.S. In Information Security and Assurance</td>
+                    <td>Current GPA:  3.86</td>
                     <td>Expected August 2015</td>
                   </tr>
                   <tr>
@@ -148,11 +149,11 @@
                   </tr>
                   <tr>
                     <th>Software</th>
-                    <td>Microsoft Office,MSSQL,  Adobe Photoshop and Flash, VMWare, Altiris, SCCM, DeployStudio, Norton Ghost, McAfee Anti-Virus, Apple Remote Desktop
+                    <td>Microsoft Office,MSSQL,  Adobe Photoshop and Flash, VMWare, Altiris, SCCM, DeployStudio, Norton Ghost, McAfee Anti-Virus, Apple Remote Desktop, EMC's Networker.
                   </tr>
                   <tr>
                     <th>Courses</th>
-                    <td>Computer System Fundamentals, Network Fundamentals, Intro to Routing and Switching, Web Design and Development, OS Scripting, Programming for Information Technology I - III, Network Design and Performance</td>
+                    <td>Computer System Fundamentals, Network Fundamentals, Intro to Routing and Switching, Web Design and Development, OS Scripting, Programming for Information Technology I - III, Network Design and Performance, Computer networks, Cryptography, Database and SQL Query design, IT and Security Project Management.</td>
                   </tr>
                   <tr>
                     <th>Other</th>
