@@ -62,7 +62,6 @@
                   <tr>
                     <td>Kaplan University</td>
                     <td>M.S. In Information Security and Assurance</td>
-                    <td>Current GPA:  3.86</td>
                     <td>Expected August 2015</td>
                   </tr>
                   <tr>
