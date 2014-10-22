@@ -161,9 +161,10 @@
                   <tr>
                     <th>Certifications</th>
                     <td>
-                      <img src="img/comptia.jpg" alt="CompTIA A+ Certified" class="img" />
-                      <img src="img/VCA-Cloud-sm.gif" alt="VCA-VCloud" class="img" />
+                      <img src="img/VCP-DCV-sm.gif" alt="VCA-VDC" class="img" />
                       <img src="img/VCA-DCV-sm.gif" alt="VCA-VDC" class="img" />
+                      <img src="img/VCA-Cloud-sm.gif" alt="VCA-VCloud" class="img" />
+                      <img src="img/comptia.jpg" alt="CompTIA A+ Certified" class="img" />
                     </td>
                   </tr>
                 </table>
